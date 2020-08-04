@@ -1,0 +1,1008 @@
+{
+    "posts": [
+        {
+            "Post": {
+                "author": "TheIdeologyItBurns",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [],
+                "author_flair_text": null,
+                "author_flair_type": "text",
+                "author_fullname": "t2_z2pi5",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543090687,
+                "domain": "np.reddit.com",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/a01tuq/third_way_liberals_absolutely_do_not_have/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "a01tuq",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": false,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "",
+                "link_flair_richtext": [],
+                "link_flair_text_color": "dark",
+                "link_flair_type": "text",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 2,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/a01tuq/third_way_liberals_absolutely_do_not_have/",
+                "pinned": false,
+                "retrieved_on": 1543090688,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 2004,
+                "subreddit_type": "public",
+                "thumbnail": "default",
+                "title": "Third way liberals absolutely do not have functioning brains",
+                "url": "https://np.reddit.com/r/Enough_Sanders_Spam/comments/9zxp09/daily_political_discussion_roundtable_11242018/ead4bx5/"
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "LivingRaccoon",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [
+                    {
+                        "e": "text",
+                        "t": "liquidize the amish"
+                    }
+                ],
+                "author_flair_text": "liquidize the amish",
+                "author_flair_type": "richtext",
+                "author_fullname": "t2_coqvs",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543085068,
+                "domain": "i.redd.it",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/a00za0/animal_pronouns/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "a00za0",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": true,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "",
+                "link_flair_richtext": [],
+                "link_flair_text_color": "dark",
+                "link_flair_type": "text",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 1,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/a00za0/animal_pronouns/",
+                "pinned": false,
+                "post_hint": "image",
+                "preview": {
+                    "enabled": true,
+                    "images": [
+                        {
+                            "id": "FhcuLW6hI6UDDRcvxm40rYP-jGY4gyhuGomT6aELcPw",
+                            "resolutions": [
+                                {
+                                    "height": 46,
+                                    "url": "https://preview.redd.it/lkz11h6oca021.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=8027f677ca876f1ae8679ec632019c8d00d3440f",
+                                    "width": 108
+                                },
+                                {
+                                    "height": 93,
+                                    "url": "https://preview.redd.it/lkz11h6oca021.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=e6d0b38b6706ea2afa248485175858ac07485fc5",
+                                    "width": 216
+                                },
+                                {
+                                    "height": 138,
+                                    "url": "https://preview.redd.it/lkz11h6oca021.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=31194af50f386a417d2e7ce557fbdc1f0717f319",
+                                    "width": 320
+                                }
+                            ],
+                            "source": {
+                                "height": 234,
+                                "url": "https://preview.redd.it/lkz11h6oca021.jpg?auto=webp&amp;s=fc7e6c79958ea46747c61222873e893497de5319",
+                                "width": 540
+                            },
+                            "variants": {}
+                        }
+                    ]
+                },
+                "retrieved_on": 1543085068,
+                "score": 1,
+                "selftext": "",
+                "send_replies": false,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 2004,
+                "subreddit_type": "public",
+                "thumbnail": "https://b.thumbs.redditmedia.com/XMNCM-QOw8Re29EZbpBYX0eXXDM8yPqA35JqJc9bliM.jpg",
+                "title": "Animal Pronouns",
+                "url": "https://i.redd.it/lkz11h6oca021.jpg",
+                "author_flair_background_color": "",
+                "author_flair_text_color": "dark",
+                "author_flair_template_id": "72f2ae6c-8d26-11e8-a036-0eefae9c5502",
+                "thumbnail_height": 60,
+                "thumbnail_width": 140
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "SuaBua",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [
+                    {
+                        "e": "text",
+                        "t": "Gamal Abdel Strasser"
+                    }
+                ],
+                "author_flair_text": "Gamal Abdel Strasser",
+                "author_flair_type": "richtext",
+                "author_fullname": "t2_p9dotd2",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543082451,
+                "domain": "nymag.com",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/a00lew/souls_of_yellow_folk_author_wesley_yang/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "a00lew",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": false,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "#cee8fc",
+                "link_flair_richtext": [
+                    {
+                        "e": "text",
+                        "t": "Culture"
+                    }
+                ],
+                "link_flair_text": "Culture",
+                "link_flair_text_color": "dark",
+                "link_flair_type": "richtext",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 5,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/a00lew/souls_of_yellow_folk_author_wesley_yang/",
+                "pinned": false,
+                "retrieved_on": 1543082452,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 2003,
+                "subreddit_type": "public",
+                "thumbnail": "default",
+                "title": "Souls of Yellow Folk Author Wesley Yang",
+                "url": "http://nymag.com/intelligencer/amp/2018/11/wesley-yang-on-asian-americans-and-political-correctness.html?__twitter_impression=true",
+                "author_flair_background_color": "",
+                "author_flair_text_color": "dark",
+                "author_flair_template_id": "72f2ae6c-8d26-11e8-a036-0eefae9c5502",
+                "link_flair_template_id": "2cd4f3c8-ce61-11e8-9585-0e67f62746d4"
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "SuaBua",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [
+                    {
+                        "e": "text",
+                        "t": "Gamal Abdel Strasser"
+                    }
+                ],
+                "author_flair_text": "Gamal Abdel Strasser",
+                "author_flair_type": "richtext",
+                "author_fullname": "t2_p9dotd2",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543079067,
+                "domain": "quillette.com",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/a003xx/ladies_lingerie_from_quillette_but_relevant_so/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "a003xx",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": false,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "#dadada",
+                "link_flair_richtext": [
+                    {
+                        "e": "text",
+                        "t": "Academia"
+                    }
+                ],
+                "link_flair_text": "Academia",
+                "link_flair_text_color": "dark",
+                "link_flair_type": "richtext",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 5,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/a003xx/ladies_lingerie_from_quillette_but_relevant_so/",
+                "pinned": false,
+                "retrieved_on": 1543079068,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 2002,
+                "subreddit_type": "public",
+                "thumbnail": "default",
+                "title": "Ladies Lingerie. (From Quillette but relevant so spare me the link policing)",
+                "url": "https://quillette.com/2018/11/23/warning-telling-a-lame-joke-in-an-elevator-can-endanger-your-career/",
+                "author_flair_background_color": "",
+                "author_flair_text_color": "dark",
+                "author_flair_template_id": "72f2ae6c-8d26-11e8-a036-0eefae9c5502",
+                "link_flair_template_id": "453cf2d0-c72c-11e8-97e1-0ee9c721b2fc"
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "lincoln1222",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [],
+                "author_flair_text": null,
+                "author_flair_type": "text",
+                "author_fullname": "t2_10l0ln",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543076172,
+                "domain": "np.reddit.com",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/9zzowt/tax_evasion_is_good_actually/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "9zzowt",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": false,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "",
+                "link_flair_richtext": [],
+                "link_flair_text_color": "dark",
+                "link_flair_type": "text",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 16,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/9zzowt/tax_evasion_is_good_actually/",
+                "pinned": false,
+                "retrieved_on": 1543076173,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 2002,
+                "subreddit_type": "public",
+                "thumbnail": "default",
+                "title": "Tax evasion is Good Actually",
+                "url": "https://np.reddit.com/r/ChapoTrapHouse/comments/9zvb9o/love_too_hate_women_who_sell_nudes/"
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "brainburrito87",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [],
+                "author_flair_text": null,
+                "author_flair_type": "text",
+                "author_fullname": "t2_1wmlf0ew",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543072728,
+                "domain": "i.redd.it",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/9zz8ba/unbelievable/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "9zz8ba",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": true,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "",
+                "link_flair_richtext": [],
+                "link_flair_text_color": "dark",
+                "link_flair_type": "text",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 56,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/9zz8ba/unbelievable/",
+                "pinned": false,
+                "post_hint": "image",
+                "preview": {
+                    "enabled": true,
+                    "images": [
+                        {
+                            "id": "1x8BakBo-FF70De4wqjebn-ZLwdakqFZqlLryR7HQxk",
+                            "resolutions": [
+                                {
+                                    "height": 130,
+                                    "url": "https://preview.redd.it/6ishvvkxpa021.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=893ed6783a45d74dc77be6fc3e841ad41d9c9a01",
+                                    "width": 108
+                                },
+                                {
+                                    "height": 260,
+                                    "url": "https://preview.redd.it/6ishvvkxpa021.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=876fb207da763026ced2ec8df043980d478a0bdf",
+                                    "width": 216
+                                },
+                                {
+                                    "height": 385,
+                                    "url": "https://preview.redd.it/6ishvvkxpa021.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fe52af58be354ee6cda489ceac8802a42c9b2e76",
+                                    "width": 320
+                                }
+                            ],
+                            "source": {
+                                "height": 750,
+                                "url": "https://preview.redd.it/6ishvvkxpa021.jpg?auto=webp&amp;s=ecdd9cd88acf7614eeb0c9bc3764ff62144c4f59",
+                                "width": 622
+                            },
+                            "variants": {}
+                        }
+                    ]
+                },
+                "retrieved_on": 1543072729,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 2001,
+                "subreddit_type": "public",
+                "thumbnail": "https://b.thumbs.redditmedia.com/BjyfDjZauscQA32VzyUSZJgr7MEKysDkG_HpI_kxyxc.jpg",
+                "title": "Unbelievable",
+                "url": "https://i.redd.it/6ishvvkxpa021.jpg",
+                "thumbnail_height": 140,
+                "thumbnail_width": 140
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "DiscourseChef",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [],
+                "author_flair_text": null,
+                "author_flair_type": "text",
+                "author_fullname": "t2_2muil279",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543072492,
+                "domain": "thestranger.com",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/9zz795/the_defense_of_callout_culture_author_shaun_scott/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "9zz795",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": false,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "#ffb890",
+                "link_flair_richtext": [
+                    {
+                        "e": "text",
+                        "t": "Radlib"
+                    }
+                ],
+                "link_flair_text": "Radlib",
+                "link_flair_text_color": "dark",
+                "link_flair_type": "richtext",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 45,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/9zz795/the_defense_of_callout_culture_author_shaun_scott/",
+                "pinned": false,
+                "retrieved_on": 1543072493,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 2001,
+                "subreddit_type": "public",
+                "thumbnail": "default",
+                "title": "The \u201cDefense of Call-out Culture\u201d author Shaun Scott is running for Seattle City Council",
+                "url": "https://www.thestranger.com/slog/2018/11/23/35978962/democratic-socialist-shaun-scott-is-running-for-seattle-city-council?fbclid=IwAR1mDpBPBMYgOJFYOWDok2IpYp_M0cgQHpHVUZP9wn-AOUnwZqXzUPwOcCY",
+                "link_flair_template_id": "63e0718e-e3b1-11e8-b086-0e34c261cd28"
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "day-ja-voo",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [
+                    {
+                        "e": "text",
+                        "t": "Marxism-Schmittism-Mouffeism"
+                    }
+                ],
+                "author_flair_text": "Marxism-Schmittism-Mouffeism",
+                "author_flair_type": "richtext",
+                "author_fullname": "t2_x64u8",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543066579,
+                "domain": "self.stupidpol",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/9zyht5/y_2_k_s_y_s_t_\u0119_m_e_r_r_o_r/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "9zyht5",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": false,
+                "is_robot_indexable": true,
+                "is_self": true,
+                "is_video": false,
+                "link_flair_background_color": "",
+                "link_flair_richtext": [],
+                "link_flair_text_color": "dark",
+                "link_flair_type": "text",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 0,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/9zyht5/y_2_k_s_y_s_t_\u0119_m_e_r_r_o_r/",
+                "pinned": false,
+                "retrieved_on": 1543066580,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 2000,
+                "subreddit_type": "public",
+                "thumbnail": "self",
+                "title": "Y 2 K \u20bd\u20bd S Y S T \u0118 M E R R O R",
+                "url": "https://www.reddit.com/r/stupidpol/comments/9zyht5/y_2_k_s_y_s_t_\u0119_m_e_r_r_o_r/",
+                "author_flair_background_color": "",
+                "author_flair_text_color": "dark",
+                "author_flair_template_id": "72f2ae6c-8d26-11e8-a036-0eefae9c5502"
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "Automaticus",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [],
+                "author_flair_text": null,
+                "author_flair_type": "text",
+                "author_fullname": "t2_vjk2z",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543064053,
+                "domain": "cbc.ca",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/9zy8sb/christopher_hedges_farewell_america_addiction/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "9zy8sb",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": false,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "",
+                "link_flair_richtext": [],
+                "link_flair_text_color": "dark",
+                "link_flair_type": "text",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 11,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/9zy8sb/christopher_hedges_farewell_america_addiction/",
+                "pinned": false,
+                "retrieved_on": 1543064054,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 2000,
+                "subreddit_type": "public",
+                "thumbnail": "default",
+                "title": "Christopher Hedges: Farewell America: Addiction, income disparity and hollowed-out towns and cities are becoming the norm, he argues, while the political and financial sectors increasingly merge with each other to the exclusion of anyone else's interests or needs. [53:59]",
+                "url": "http://www.cbc.ca/player/play/1374829123702/"
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "SurrenderToTheSky",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [],
+                "author_flair_text": null,
+                "author_flair_type": "text",
+                "author_fullname": "t2_2leujwr1",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543051866,
+                "domain": "washingtonpost.com",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/9zx7d0/whats_up_with_a_vague_unverified_and_unscientific/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "9zx7d0",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": false,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "",
+                "link_flair_richtext": [],
+                "link_flair_text_color": "dark",
+                "link_flair_type": "text",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 1,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/9zx7d0/whats_up_with_a_vague_unverified_and_unscientific/",
+                "pinned": false,
+                "retrieved_on": 1543051867,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 1999,
+                "subreddit_type": "public",
+                "thumbnail": "default",
+                "title": "What\u2019s Up With A Vague, Unverified, and Unscientific Statistic In The Georgia Exit Polls?",
+                "url": "https://www.washingtonpost.com/amphtml/politics/2018/11/23/whats-up-with-all-those-black-men-who-voted-republican-georgia-governors-race/"
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "pickyypicnic",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [
+                    {
+                        "e": "text",
+                        "t": "good news to the hungry is bread"
+                    }
+                ],
+                "author_flair_text": "good news to the hungry is bread",
+                "author_flair_type": "richtext",
+                "author_fullname": "t2_2h2lyn2b",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543046532,
+                "domain": "i.redd.it",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/9zwrmd/tonight_im_gonna_party_like_its/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "9zwrmd",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": true,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "",
+                "link_flair_richtext": [
+                    {
+                        "e": "text",
+                        "t": "META"
+                    }
+                ],
+                "link_flair_text": "META",
+                "link_flair_text_color": "dark",
+                "link_flair_type": "richtext",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 5,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/9zwrmd/tonight_im_gonna_party_like_its/",
+                "pinned": false,
+                "post_hint": "image",
+                "preview": {
+                    "enabled": true,
+                    "images": [
+                        {
+                            "id": "IyhKQ2KMizwrliHxzcV5y-UjIeWW5VOuE_He-WDct1g",
+                            "resolutions": [
+                                {
+                                    "height": 108,
+                                    "url": "https://preview.redd.it/bl23q2q1k8021.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b1d6fcf277a44f0540a26b0c4196c64dd141d7a3",
+                                    "width": 108
+                                },
+                                {
+                                    "height": 216,
+                                    "url": "https://preview.redd.it/bl23q2q1k8021.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ffb9f9552f653ef2bd92a9e2a3b195c12695ff64",
+                                    "width": 216
+                                },
+                                {
+                                    "height": 320,
+                                    "url": "https://preview.redd.it/bl23q2q1k8021.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=36ac07231df23c9a10cbdec0b48d76983f254435",
+                                    "width": 320
+                                },
+                                {
+                                    "height": 640,
+                                    "url": "https://preview.redd.it/bl23q2q1k8021.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd4d475f8e54335fe398c1c9d33ab1cb2337a825",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 960,
+                                    "url": "https://preview.redd.it/bl23q2q1k8021.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=2d4505b858fa54e88591673af24b830dfb34d2f3",
+                                    "width": 960
+                                },
+                                {
+                                    "height": 1080,
+                                    "url": "https://preview.redd.it/bl23q2q1k8021.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=47d5770feeac91ebdc56f2076bcdaa5ea1a8202b",
+                                    "width": 1080
+                                }
+                            ],
+                            "source": {
+                                "height": 1243,
+                                "url": "https://preview.redd.it/bl23q2q1k8021.jpg?auto=webp&amp;s=c85412a30b4b0eddbd6579fa5aacece5622162e7",
+                                "width": 1243
+                            },
+                            "variants": {}
+                        }
+                    ]
+                },
+                "retrieved_on": 1543046533,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 1999,
+                "subreddit_type": "public",
+                "thumbnail": "https://b.thumbs.redditmedia.com/RkHpNQiKHdWyj40TQOJYj9taJaITWOo7uIqdK0xN0Co.jpg",
+                "title": "\ud83c\udfb5 tonight I\u2019m gonna party like it\u2019s \ud83c\udfb5",
+                "url": "https://i.redd.it/bl23q2q1k8021.jpg",
+                "author_flair_background_color": "",
+                "author_flair_text_color": "dark",
+                "author_flair_template_id": "72f2ae6c-8d26-11e8-a036-0eefae9c5502",
+                "thumbnail_height": 140,
+                "thumbnail_width": 140,
+                "link_flair_template_id": "0296b028-886c-11e8-a881-0e5cbe081074"
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "xereeto",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [],
+                "author_flair_text": null,
+                "author_flair_type": "text",
+                "author_fullname": "t2_77dak",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543034991,
+                "domain": "i.redd.it",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/9zvlq6/for_fuck_sake/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "9zvlq6",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": true,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "",
+                "link_flair_richtext": [],
+                "link_flair_text_color": "dark",
+                "link_flair_type": "text",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 27,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/9zvlq6/for_fuck_sake/",
+                "pinned": false,
+                "post_hint": "image",
+                "preview": {
+                    "enabled": true,
+                    "images": [
+                        {
+                            "id": "x_jsILKIZ8OMWRvYXQddtykiMWK1tXzgGkUFVJcC7AA",
+                            "resolutions": [
+                                {
+                                    "height": 164,
+                                    "url": "https://preview.redd.it/m7npcj5pl7021.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=6435edf6d8820434f794e36a87a362eb1b698b16",
+                                    "width": 108
+                                },
+                                {
+                                    "height": 329,
+                                    "url": "https://preview.redd.it/m7npcj5pl7021.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=3ee9f5e05eda37a5b8f7a26ddb22ec221e6db210",
+                                    "width": 216
+                                },
+                                {
+                                    "height": 488,
+                                    "url": "https://preview.redd.it/m7npcj5pl7021.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3335f8f0794e29e6950b58299b8bca806ab23400",
+                                    "width": 320
+                                }
+                            ],
+                            "source": {
+                                "height": 913,
+                                "url": "https://preview.redd.it/m7npcj5pl7021.png?auto=webp&amp;s=19f7ed1cafd8f8c8adfd3e9a399b687b681c82d6",
+                                "width": 598
+                            },
+                            "variants": {}
+                        }
+                    ]
+                },
+                "retrieved_on": 1543034992,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 1995,
+                "subreddit_type": "public",
+                "thumbnail": "https://b.thumbs.redditmedia.com/I_3mbcPN-TGjTEfPk8ZsPnI312PYRNjIetOhOKIlKOo.jpg",
+                "title": "For fuck sake.",
+                "url": "https://i.redd.it/m7npcj5pl7021.png",
+                "thumbnail_height": 140,
+                "thumbnail_width": 140
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "VulgarNeo-Marxist",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [],
+                "author_flair_text": null,
+                "author_flair_type": "text",
+                "author_fullname": "t2_2nngk4dh",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543029918,
+                "domain": "twitter.com",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/9zv0mp/this_account_is_the_idpol_final_boss/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "9zv0mp",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": false,
+                "is_robot_indexable": true,
+                "is_self": false,
+                "is_video": false,
+                "link_flair_background_color": "",
+                "link_flair_richtext": [],
+                "link_flair_text_color": "dark",
+                "link_flair_type": "text",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 62,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/9zv0mp/this_account_is_the_idpol_final_boss/",
+                "pinned": false,
+                "retrieved_on": 1543029920,
+                "score": 1,
+                "selftext": "",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 1994,
+                "subreddit_type": "public",
+                "thumbnail": "default",
+                "title": "This account is the idpol final boss",
+                "url": "https://twitter.com/trannycita/status/1051978988778864640?s=21"
+            },
+            "Comments": []
+        },
+        {
+            "Post": {
+                "author": "pickyypicnic",
+                "author_flair_css_class": null,
+                "author_flair_richtext": [
+                    {
+                        "e": "text",
+                        "t": "good news to the hungry is bread"
+                    }
+                ],
+                "author_flair_text": "good news to the hungry is bread",
+                "author_flair_type": "richtext",
+                "author_fullname": "t2_2h2lyn2b",
+                "author_patreon_flair": false,
+                "can_mod_post": false,
+                "contest_mode": false,
+                "created_utc": 1543027947,
+                "domain": "self.stupidpol",
+                "full_link": "https://www.reddit.com/r/stupidpol/comments/9zurr6/november_reading_list_the_decline_of_unions_myths/",
+                "gildings": {
+                    "gid_1": 0,
+                    "gid_2": 0,
+                    "gid_3": 0
+                },
+                "id": "9zurr6",
+                "is_crosspostable": true,
+                "is_meta": false,
+                "is_original_content": false,
+                "is_reddit_media_domain": false,
+                "is_robot_indexable": true,
+                "is_self": true,
+                "is_video": false,
+                "link_flair_background_color": "",
+                "link_flair_richtext": [
+                    {
+                        "e": "text",
+                        "t": "Reading-Series"
+                    }
+                ],
+                "link_flair_text": "Reading-Series",
+                "link_flair_text_color": "dark",
+                "link_flair_type": "richtext",
+                "locked": false,
+                "media_only": false,
+                "no_follow": true,
+                "num_comments": 18,
+                "num_crossposts": 0,
+                "over_18": false,
+                "permalink": "/r/stupidpol/comments/9zurr6/november_reading_list_the_decline_of_unions_myths/",
+                "pinned": false,
+                "retrieved_on": 1543027947,
+                "score": 1,
+                "selftext": "[.](https://www.roadsideamerica.com/attract/images/ks/KSLUCgarden_ks55.jpg)\n\nWith help from /u/WillowWorker\n\n\n\n\n\n\n##Books:\n\n[**The New Minority: White Working Class Politics in an Age of Immigration and Inequality**](https://www.reddit.com/r/leftistlit/comments/9z84fj/pdf_273_pages_the_new_minority_white_working?st=JORXL4UX&amp;sh=9229975a) by Justin Gest \n\n[**The Politics of Resentment: Rural Consciousness in Wisconsin**](https://faculty.polisci.wisc.edu/schatzberg/ps919/Walsh2012.pdf) by Katherine J. Cramer\n\nRequired author: **Chantal Mouffe**\n\n+ [Interview of note to surmise her views, \u201cwe urgently need to promote a left populism\u201d](http://grassrootspolicy.org/wp-content/uploads/2017/08/Mouffe-on-Populism.pdf), another interview: [Hegemony, democracy, agonism, and journalism](http://eprints.lse.ac.uk/3020/1/Hegemony,_democracy,_agonism_and_journalism_(LSERO).pdf)\n\n+ [On the Political](http://www.univpgri-palembang.ac.id/perpus-fkip/Perpustakaan/Filsafat/Marxisme/Chantal%20Mouffe%20-%20On%20the%20Political%20-%20%28%202005%29.pdf)\n\n+ [The Return of the Political](https://monoskop.org/images/c/cb/Mouffe_Chantal_The_Return_of_the_Political.pdf)\n\n+ [Deliberative Democracy or Agonistic Pluralism](https://www.ihs.ac.at/publications/pol/pw_72.pdf)\n\n+ [Politics and Passions: the Stakes of Democracy](http://www.ethical-perspectives.be/viewpic.php?TABLE=EP&amp;ID=139)\n\n+ [Deconstruction and Pragmatism] by Simon Critchley, Jacques Derrida, Ernesto Laclau and Richard Rorty\nEdited by Chantal Mouffe\n\n+ [Populism and the Mirror of Democracy](https://eclass.uoa.gr/modules/document/file.php/MEDIA279/Populism/21.edited%20book_Populism%20and%20the%20Mirro.pdf) Edited by Francisco Panizza, The \u2018end of politics\u2019 and the challenge of Right Wing Populism by Chantal Mouffe on page 50\n\nA review of Chantal Mouffe\u2019s \u201cFor a Left Populism\u201d in **Jacobin**: [On the Front Lines of the Populism Wars](https://www.jacobinmag.com/2018/06/for-a-left-populism-mouffe-review) by Ant\u00f6n Jager\n\n\n##Essential Articles:\n\n\nFrom the \u201cPolitics, Groups, Identities\u201d journal: [**White working-class politics and the consequences of declining unionization in the age of Trump**](http://backup.sci-hub.tw/6363/4534b9bcac88ac68e874689c6bcd9daf/bucci2015.pdf) by Laura C. Bucci \n\n&gt;*A summary of the points Gest and Cramer make in their books.*\n\nWashington Post: [**When left-leaning parties support austerity, their voters start to embrace the far right**](https://www.washingtonpost.com/amphtml/news/monkey-cage/wp/2018/11/20/when-left-leaning-parties-support-austerity-their-voters-start-to-embrace-the-far-right/) by Maria Snegovaya\n\n&gt;*... these parties managed to attract blue-collar voters who previously voted for Hungary\u2019s former communist Socialist Workers\u2019 Party. Starting in 1989, the Hungarian Socialist Party rejected the old Communist Party image and adopted a pro-European program, which combined a universalist welfare state and acceptance of the market economy... Overall, the experiences of Central European countries suggest that when left-leaning parties turn their backs on working people, other parties will willingly step up to channel their frustration*\n\nNew York Times: [**Liberal Blind Spots Are Hiding the Truth About \u2018Trump Country\u2019**](https://www.nytimes.com/2018/07/19/opinion/trump-corporations-white-working-class.html) by Sarah Smarsh \n\n&gt;*Most struggling whites I know live lives of quiet desperation mad at their white bosses, not resentment of their co-workers or neighbors of color. My dad\u2019s previous three bosses were all white men he loathed for abuses of privilege and people.*\n\nJacobin: [**51 Percent Losers**](https://jacobinmag.com/2018/11/midterm-elections-reconstruction-du-bois) by Matt Karp\n\n&gt;*The midterms have given the Democratic Party a boost. But their professional-class politics are a cul de sac \u2014 we desperately need a political revolution driven by the needs and aspirations of the multiracial working class.*\n\nPaper: [**From the Bargaining Table to the Ballot Box: Political Effects of Right to Work Laws**](https://jamesfeigenbaum.github.io/research/pdf/fhw_rtw_jan2018.pdf) by James Feigenbaum, Alexander Hertel-Fernandez, and Vanessa Williamson\n\n&gt;*Labor unions play a central role in the Democratic party coalition, providing candidates with voters, volunteers, and contributions, as well as lobbying policymakers ... We use the enactment of right-to-work laws\u2014which weaken unions by removing agency shop protections\u2014 to estimate the effect of unions on politics from 1980 to 2016. Comparing counties on either side of a state and right-to-work border to causally identify the effects of the state laws, we find that right-to-work laws reduce Democratic Presidential votes ... right-to-work laws dampen organized labor campaign contributions to Democrats and that potential voters are less likely to be contacted to vote in right-to-work states. The weakening of unions also has large downstream effects both on who runs for office and on state legislative policy. Fewer working class candidates serve in state legislatures and Congress, and state policy moves in a more conservative direction following the passage of right-to-work laws.*\n\nForeign Policy in Focus: [**Next Stop for the Global \u2018Bernie\u2019 Movement: Mexico?**](https://fpif.org/next-stop-for-the-global-bernie-movement-mexico/) by John Feffer\n\n&gt;*What distinguishes left populists from the left more generally is their focus on economics rather than identity politics. The left has worked hard to create a \u201crainbow coalition.\u201d Left populists, while not exactly anti-diversity, prefer to emphasize pocketbook issues.*\n\nForeign Affairs: [**Populism Is Not Fascism**](https://www.foreignaffairs.com/articles/united-states/2016-10-17/populism-not-fascism) by Sheri Berman \n\n&gt;*Current right-wing extremists are thus better characterized as populist rather than fascist, since they claim to speak for everyday men and women against corrupt, debased, and out-of-touch elites and institutions.*\n\nNew York Times: [**The Decline of Unions and the Rise of Trump**](https://www.nytimes.com/2016/08/14/opinion/sunday/the-decline-of-unions-and-the-rise-of-trump.html) by Neil Gross\n\n&gt;*Unions are also political organizations that, under the right circumstances, can powerfully channel the working-class vote.*\n\nGuardian: [**Forget Trump \u2013 populism is the cure, not the disease**](https://www.theguardian.com/books/2018/may/23/thomas-frank-trump-populism-books) by Thomas Frank\n\n&gt;*As for populism, historians typically trace the populist rhetorical tradition in America back to the time of Jefferson and Andrew Jackson ... Populism\u2019s evil rightwing doppelganger is usually dated to 1968, when George Wallace and Richard Nixon figured out how to turn the language of working-class majoritarianism against liberalism. Rightwing populists have been building movements and winning elections in the US ever since.*\n\nRewire: [**Want White Working Class Voters to Support Democrats? Strengthen Unions.**](https://rewire.news/article/2018/08/13/want-white-working-class-voters-support-democrats-strengthen-unions/) by Peter Dreier\n\n&gt;*By 2016, however, the labor movement had sunk to membership levels lower than at any time since the early 1900s. Its capacity to mobilize and educate was never weaker. Even so, the AFL-CIO survey found that 56 percent of union members voted for Clinton compared with 37 percent for Trump.*\n\n\n##Further Reading: \n\n\nCritique from Foreign Policy: [**Populism Is a Problem. Elitist Technocrats Aren\u2019t the Solution** The problem isn\u2019t too much democracy \u2014 it\u2019s too little.](https://foreignpolicy.com/2017/12/20/populism-is-a-problem-elitist-technocrats-arent-the-solution/) by Sheri Berman\n\n&gt;*Institutional decay, in short, has weakened the responsiveness of American democracy, exacerbating the impact of its already many undemocratic features.*\n\nProspect: [**Working-Class Politics and the Foremen Problem**](http://prospect.org/article/working-class-politics-and-foremen-problem) by Allison L. Hurst \n\n&gt;*We cannot hope for justice to emerge out of a beaten-down isolated working class, and the decline of unions means we have lost one of the great training grounds for working-class solidarity.  Revolutions have only been successful when workers come together to recognize their shared interests and common enemies. We will need the foremen on our side, too. So we have a lot of organizing to do.*\n\nStudy: [**Left-Wing Populism in the European periphery: the case of Syriza**](https://www.reddit.com/r/leftistlit/comments/9ym0kt/pdf_25_pages_leftwing_populism_in_the_european?st=JORXM9QX&amp;sh=d90e45d7) by Yannis Stavrakakis\n\n&gt;*Our analysis concludes that SYRIZA\u2019s discourse is indeed a distinct articulation of left-wing populism.*\n\nBackground: [**A look at the rise of populism in Europe**](https://www.philstar.com/opinion/2018/11/24/1871215/look-rise-populism-europe) by Satur Ocampo\n\n&gt;*In the last 20 years (1998-2018), public support for populist parties in Europe has risen three times over.*\n\nBackground: [**The Rise of Populism and the Left in Latin America**](https://my.vanderbilt.edu/seligson/files/2013/12/Journal-of-Democracy-Rise-of-the-Left-Seligson-published-version.pdf) by Mitchell A. Seligson, [** The Resourgence of Radical Populism in Latin America**](http://www.flacsoandes.edu.ec/sites/default/files/agora/files/1215098051.carlos_de_la_torre_1_0.pdf) by Carlos de la Torres\n\nEuropean Trade Union forum: [** The Origins and Nature of Modern Day Populism: Labour Market Dualisation and Political Alienation**](http://blogs.lse.ac.uk/netuf/2018/06/08/the-origins-and-nature-of-modern-day-populism-labour-market-dualisation-and-political-alienation/) by Dustin Voss\n\n&gt;*If a group of underrepresented workers is not sufficiently numerous to be electorally-relevant, right-wing populist protest parties can make use of the ensuing representational vacuum ... this is achieved by reframing class-distributional issues along cultural conflict lines to forge electorally-powerful coalitions with more affluent middle-class voters. If the group of marginalised workers is large enough to mobilise broad political attention, left-wing populist parties can, and will, address socio-economic issues of a larger voter base more directly.*",
+                "send_replies": true,
+                "spoiler": false,
+                "stickied": false,
+                "subreddit": "stupidpol",
+                "subreddit_id": "t5_hitz3",
+                "subreddit_subscribers": 1993,
+                "subreddit_type": "public",
+                "thumbnail": "self",
+                "title": "November Reading List: The decline of unions, myths of the trump voter, and Left Populism",
+                "url": "https://www.reddit.com/r/stupidpol/comments/9zurr6/november_reading_list_the_decline_of_unions_myths/",
+                "author_flair_background_color": "",
+                "author_flair_text_color": "dark",
+                "author_flair_template_id": "72f2ae6c-8d26-11e8-a036-0eefae9c5502",
+                "link_flair_template_id": "82d52e36-c3f9-11e8-b624-0e48b46b74b0"
+            },
+            "Comments": []
+        }
+    ]
+}
